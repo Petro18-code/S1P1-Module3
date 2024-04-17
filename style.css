@@ -1,0 +1,61 @@
+/*esercizio 1*/
+.jumbotron div h1 {
+    color: blue;
+}
+
+/*esercizio 2*/
+.nav * {
+    font-weight: bold;
+}
+
+/*esercizio 3*/
+.jumbotron div p:last-of-type a {
+    background-color: aqua;
+}
+
+/*esercizio 4*/
+.blog-post:first-of-type {
+    color: brown;
+}
+
+/*esercizio 5*/
+.blog-post hr:first-of-type {
+    border-color: red;
+}
+
+/*esercizio 6*/
+.nav span:nth-of-type(even) {
+    color: blue;
+}
+
+/*esercizio 7*/
+.blog-sidebar div:nth-child(2) ol li a {
+    color: crimson;
+}
+
+/*esercizio 8*/
+.blog-post:nth-of-type(2) .blog-post-meta a {
+    font-weight: bold;
+    color: blue;
+}
+
+/*esercizio 9*/
+.blog-post:nth-of-type(3) ul li:nth-of-type(2) {
+    text-decoration: line-through;
+}
+
+/*esercizio 10*/
+.blog-footer~a {
+    color: violet;
+}
+
+/*esercizio 11*/
+.blog-pagination a:nth-child(2) {
+    color: red;
+    border-color: red;
+}
+
+/*esercizio 12*/
+.blog-footer p>a:nth-of-type(2) {
+    background-color: purple;
+}
